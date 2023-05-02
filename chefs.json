@@ -1,0 +1,57 @@
+[
+        {
+            "id": 1,
+            "chef_picture": "https://i.pinimg.com/736x/33/3b/3e/333b3eeeaa95162b8b6fb5b7e638a105.jpg",
+            "chef_name": "Gordon Ramsay",
+            "years_of_experience": 30,
+            "num_recipes": 500,
+            "likes": 1000000,
+            "description": "Gordon Ramsay is a well-known British chef, restaurateur, and television personality."
+        },
+        {
+            "id": 2,
+            "chef_picture": "https://i.pinimg.com/564x/4e/19/1a/4e191a94aa4d4072db242b0e05120255.jpg",
+            "chef_name": "Jamie Oliver",
+            "years_of_experience": 25,
+            "num_recipes": 700,
+            "likes": 500000,
+            "description": "Jamie Oliver is a British chef and television personality known for his emphasis on healthy eating."
+        },
+        {
+            "id": 3,
+            "chef_picture": "https://i.pinimg.com/564x/0b/c5/c5/0bc5c5775daee8cf040f939031fca185.jpg",
+            "chef_name": "Nigella Lawson",
+            "years_of_experience": 20,
+            "num_recipes": 400,
+            "likes": 350000,
+            "description": "Nigella Lawson is an English food writer and television personality known for her approachable, home-cooked meals."
+        },
+        {
+            "id": 4,
+            "chef_picture": "https://i.pinimg.com/564x/e7/23/33/e723330190ab30deca327f1024a82225.jpg",
+            "chef_name": "Delia Smith",
+            "years_of_experience": 50,
+            "num_recipes": 300,
+            "likes": 200000,
+            "description": "Delia Smith is an English cook and television presenter known for her clear, concise instructions and traditional recipes."
+        },
+        {
+            "id": 5,
+            "chef_picture": "https://i.pinimg.com/564x/1f/90/a3/1f90a39e0ae1538c97f8a78f82928705.jpg",
+            "chef_name": "Heston Blumenthal",
+            "years_of_experience": 30,
+            "num_recipes": 250,
+            "likes": 400000,
+            "description": "Heston Blumenthal is a British chef and owner of The Fat Duck restaurant, known for his innovative and experimental approach to cooking."
+        },
+        {
+            "id": 6,
+            "chef_picture": "https://i.pinimg.com/564x/2e/7d/d3/2e7dd399d37bbfa6dba05c5d74ed4886.jpg",
+            "chef_name": "Marcus Wareing",
+            "years_of_experience": 25,
+            "num_recipes": 150,
+            "likes": 250000,
+            "description": "Marcus Wareing is an English chef and restaurateur, known for his modern British cooking and appearances on MasterChef."
+        }
+    ]
+

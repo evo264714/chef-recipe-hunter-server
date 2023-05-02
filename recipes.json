@@ -1,0 +1,263 @@
+[
+        {
+            "id": 1,
+            "recipes": [
+                {
+                    "recipe_name": "Beef Wellington",
+                    "ingredients": [
+                        "beef tenderloin",
+                        "puff pastry",
+                        "mushrooms",
+                        "prosciutto",
+                        "Dijon mustard"
+                    ],
+                    "cooking_method": "1. Preheat oven to 200°C. 2. Sear beef until brown on all sides. 3. Spread mustard over beef and wrap in prosciutto and mushrooms. 4. Wrap in puff pastry and bake for 30-40 minutes. ",
+                    "rating": 4.5
+                    
+                },
+                {
+                    "recipe_name": "Eggs Benedict",
+                    "ingredients": [
+                        "English muffins",
+                        "Canadian bacon",
+                        "eggs",
+                        "butter",
+                        "white vinegar"
+                    ],
+                    "cooking_method": "1. Toast English muffins and top with Canadian bacon. 2. Poach eggs and place on top of bacon. 3. Make hollandaise sauce by whisking egg yolks and lemon juice over low heat, then slowly adding melted butter. 4. Pour sauce over eggs and serve.",
+                    "rating": 4.2
+                    
+                },
+                {
+                    "recipe_name": "Beef Stroganoff",
+                    "ingredients": [
+                        "beef sirloin",
+                        "sour cream",
+                        "onion",
+                        "mushrooms",
+                        "beef broth"
+                    ],
+                    "cooking_method": "1. Sear beef until brown and set aside. 2. Saute onion and mushrooms until tender. 3. Add beef broth and bring to a simmer. 4. Stir in sour cream and beef, and cook until heated through. ",
+                    "rating": 4.8
+                    
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "recipes": [
+                {
+                    "recipe_name": "Roast Chicken",
+                    "ingredients": [
+                        "whole chicken",
+                        "lemon",
+                        "garlic",
+                        "thyme",
+                        "olive oil"
+                    ],
+                    "cooking_method": "1. Preheat oven to 200°C. 2. Rub chicken with olive oil and sprinkle with salt, pepper, and thyme. 3. Stuff cavity with lemon and garlic. 4. Roast for 1-1.5 hours, or until internal temperature reaches 75°C.",
+                    "rating": 4.4
+                    
+                },
+                {
+                    "recipe_name": "Spaghetti Bolognese",
+                    "ingredients": [
+                        "spaghetti",
+                        "ground beef",
+                        "onion",
+                        "garlic",
+                        "tomato sauce"
+                    ],
+                    "cooking_method": "1. Cook spaghetti according to package instructions. 2. Brown ground beef with onion and garlic. 3. Add tomato sauce and simmer for 20-30 minutes. 4. Serve sauce over spaghetti.",
+                    "rating": 4.2
+                    
+                },
+                {
+                    "recipe_name": "Shepherd's Pie",
+                    "ingredients": [
+                        "ground lamb",
+                        "carrots",
+                        "peas",
+                        "potatoes",
+                        "butter"
+                    ],
+                    "cooking_method": "1. Boil potatoes until tender and mash with butter. 2. Brown lamb with carrots and peas.Pour lamb mixture into a baking dish and spread mashed potatoes on top. 4. Bake for 20-25 minutes, or until potatoes are golden brown. ",
+                    "rating": 4.6
+                    
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "recipes": [
+                {
+                    "recipe_name": "Chocolate Cake",
+                    "ingredients": [
+                        "flour",
+                        "sugar",
+                        "butter",
+                        "eggs",
+                        "chocolate"
+                    ],
+                    "cooking_method": "1. Preheat oven to 180°C. 2. Cream butter and sugar together. 3. Beat in eggs and flour. 4. Melt chocolate and add to mixture. 5. Pour mixture into greased cake pan and bake for 25-30 minutes. ",
+                    "rating": 4.3
+                    
+                },
+                {
+                    "recipe_name": "Risotto",
+                    "ingredients": [
+                        "arborio rice",
+                        "white wine",
+                        "onion",
+                        "parmesan cheese",
+                        "chicken broth"
+                    ],
+                    "cooking_method": "1. Saute onion in butter until tender. 2. Add rice and toast for 1-2 minutes. 3. Add white wine and stir until absorbed. 4. Slowly add chicken broth and stir until absorbed. 5. Stir in parmesan cheese and serve.",
+                    "rating": 4.1
+                    
+                },
+                {
+                    "recipe_name": "Butternut Squash Soup",
+                    "ingredients": [
+                        "butternut squash",
+                        "onion",
+                        "garlic",
+                        "chicken broth",
+                        "heavy cream"
+                    ],
+                    "cooking_method": "1. Roast butternut squash, onion, and garlic until tender. 2. Puree roasted vegetables with chicken broth. 3. Stir in heavy cream and heat until warm. 4. Serve with croutons or bread.",
+                    "rating": 4.5
+                    
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "recipes": [
+                {
+                    "recipe_name": "Victoria Sponge Cake",
+                    "ingredients": [
+                        "flour",
+                        "sugar",
+                        "butter",
+                        "eggs",
+                        "raspberry jam"
+                    ],
+                    "cooking_method": "1. Preheat oven to 180°C. 2. Cream butter and sugar together. 3. Beat in eggs and flour. 4. Pour mixture into two greased cake pans and bake for 20-25 minutes. 5. Spread raspberry jam on top of one cake and sandwich with the other cake. ",
+                    "rating": 4.2
+                    
+                },
+                {
+                    "recipe_name": "Fish Pie",
+                    "ingredients": [
+                        "white fish",
+                        "smoked haddock",
+                        "hard-boiled eggs",
+                        "potatoes",
+                        "heavy cream"
+                    ],
+                    "cooking_method": "1. Boil potatoes until tender and mash with butter. 2. Poach fish in heavy cream until cooked through. 3. Flake fish and mix with chopped hard-boiled eggs. 4. Pour fish mixture into baking dish and top with mashed potatoes. 5. Bake for 20-25 minutes, or until potatoes are golden brown.",
+                    "rating": 4.5
+                    
+                },
+                {
+                    "recipe_name": "Lemon Drizzle Cake",
+                    "ingredients": [
+                        "flour",
+                        "sugar",
+                        "butter",
+                        "eggs",
+                        "lemon"
+                    ],
+                    "cooking_method": "1. Preheat oven to 180°C. 2. Cream butter and sugar together. 3. Beat in eggs and flour. 4. Stir in lemon juice and zest. 5. Pour mixture into greased cake pan and bake for 25-30 minutes. 6. Combine sugar and lemon juice to make drizzle. 7. Pour drizzle over cake while still warm.",
+                    "rating": 4.7
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "recipes": [
+                {
+                    "recipe_name": "Beef Wellington",
+                    "ingredients": [
+                        "beef tenderloin",
+                        "puff pastry",
+                        "prosciutto",
+                        "mushrooms",
+                        "egg"
+                    ],
+                    "cooking_method": "1. Preheat oven to 200°C. 2. Season beef tenderloin and sear in hot pan. 3. Wrap beef in prosciutto and mushroom mixture. 4. Roll out puff pastry and wrap beef in pastry. 5. Brush pastry with egg wash and bake for 25-30 minutes. ",
+                    "rating": 4.8
+                    
+                },
+                {
+                    "recipe_name": "Scrambled Eggs",
+                    "ingredients": [
+                        "eggs",
+                        "butter",
+                        "salt",
+                        "pepper",
+                        "chives"
+                    ],
+                    "cooking_method": "1. Beat eggs in bowl with salt and pepper. 2. Melt butter in pan and add eggs. 3. Stir eggs constantly until soft curds form. 4. Serve with chopped chives on top. ",
+                    "rating": 4.2
+                    
+                },
+                {
+                    "recipe_name": "Beef Burger",
+                    "ingredients": [
+                        "ground beef",
+                        "brioche bun",
+                        "cheddar cheese",
+                        "lettuce",
+                        "tomato"
+                    ],
+                    "cooking_method": "1. Form ground beef into patties and season with salt and pepper. 2. Grill patties until cooked to desired temperature. 3. Toast brioche buns and melt cheddar cheese on top of patties. 4. Assemble burger with lettuce and tomato.",
+                    "rating": 4.4
+                    
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "recipes": [
+                {
+                    "recipe_name": "Pesto Pasta",
+                    "ingredients": [
+                        "pasta",
+                        "pesto",
+                        "cherry tomatoes",
+                        "pine nuts",
+                        "parmesan cheese"
+                    ],
+                    "cooking_method": "1. Cook pasta according to package instructions. 2. Toss pasta with pesto and cherry tomatoes. 3. Toast pine nuts in pan and sprinkle over pasta. 4. Serve with grated parmesan cheese on top. ",
+                    "rating": 4.1
+                },
+                {
+                    "recipe_name": "Chicken Tikka Masala",
+                    "ingredients": [
+                        "chicken",
+                        "yogurt",
+                        "tomatoes",
+                        "onion",
+                        "garam masala"
+                    ],
+                    "cooking_method": "1. Marinate chicken in yogurt and spices. 2. Grill chicken until cooked through. 3. Saute onion and tomatoes until tender. 4. Add garam masala and cooked chicken to the pan. 5. Simmer for 10 minutes. 6. Serve with rice or naan bread. ",
+                    "rating": 4.5
+                },
+                {
+                    "recipe_name": "Roast Beef",
+                    "ingredients": [
+                        "beef roast",
+                        "potatoes",
+                        "carrots",
+                        "onion",
+                        "rosemary"
+                    ],
+                    "cooking_method": "1. Preheat oven to 200°C. 2. Season beef roast with salt, pepper, and rosemary. 3. Place beef roast in roasting pan. 4. Surround beef with chopped potatoes, carrots, and onions. 5. Roast in oven for 1-2 hours, or until beef is cooked to desired temperature. ",
+                    "rating": 4.6
+                    
+                }
+            ]
+        }
+    ]
