@@ -1,6 +1,7 @@
 [
         {
             "id": 1,
+            "chef_id": 1,
             "recipes": [
                 {
                     "recipe_name": "Beef Wellington",
@@ -45,6 +46,7 @@
         },
         {
             "id": 2,
+            "chef_id": 2,
             "recipes": [
                 {
                     "recipe_name": "Roast Chicken",
@@ -89,6 +91,7 @@
         },
         {
             "id": 3,
+            "chef_id": 3,
             "recipes": [
                 {
                     "recipe_name": "Chocolate Cake",
@@ -133,6 +136,7 @@
         },
         {
             "id": 4,
+            "chef_id": 4,
             "recipes": [
                 {
                     "recipe_name": "Victoria Sponge Cake",
@@ -176,6 +180,7 @@
         },
         {
             "id": 5,
+            "chef_id": 5,
             "recipes": [
                 {
                     "recipe_name": "Beef Wellington",
@@ -220,6 +225,7 @@
         },
         {
             "id": 6,
+            "chef_id": 6,
             "recipes": [
                 {
                     "recipe_name": "Pesto Pasta",
