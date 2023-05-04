@@ -3,13 +3,14 @@
             "id": 1,
             "chef_id": 1,
             "recipes": [
+                
                 {
                     "recipe_name": "Beef Wellington",
                     "ingredients": [
-                        "beef tenderloin",
-                        "puff pastry",
-                        "mushrooms",
-                        "prosciutto",
+                        "beef tenderloin, ",
+                        "puff pastry, ",
+                        "mushrooms, ",
+                        "prosciutto, ",
                         "Dijon mustard"
                     ],
                     "cooking_method": "1. Preheat oven to 200°C. 2. Sear beef until brown on all sides. 3. Spread mustard over beef and wrap in prosciutto and mushrooms. 4. Wrap in puff pastry and bake for 30-40 minutes. ",
